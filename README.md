@@ -52,13 +52,13 @@
 
 ### Built With
 
-* [Eclispe] (https://www.eclipse.org/ide/)
-* [Visual Studio Code] (https://code.visualstudio.com/)
-* [MySQL] (https://www.mysql.com/)
-* [Postman] (https://www.postman.com/)
-* [Google] (https://www.google.com/)
-* [Github] (https://github.com/)
-* [Zoom] (https://zoom.us/)
+* [Eclispe](https://www.eclipse.org/ide/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [MySQL](https://www.mysql.com/)
+* [Postman](https://www.postman.com/)
+* [Google](https://www.google.com/)
+* [Github](https://github.com/)
+* [Zoom](https://zoom.us/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
