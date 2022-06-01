@@ -104,12 +104,12 @@ Minimal usage requirements
     - [X] Create mapping
 - [ ] Front End Tasks
     - [X] Create shell
-    - [ ] 
+    - [ ] Lets add more taskings for the road map
     - [ ] Clean up UI
 - [] DevOps Tasks
     - [X] Create Repositories
     - [X] Send invites for collabs
-    - [ ] 
+    - [ ] Lets add more taskings for the road map
 - [ ] Quality Assurance
 - [ ] Merge to 'master'
 - [ ] Add additional features
