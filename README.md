@@ -52,7 +52,7 @@
 
 ### Built With
 
-* [Eclispe IDE] (https://www.eclipse.org/ide/)
+* [Eclispe] (https://www.eclipse.org/ide/)
 * [Visual Studio Code] (https://code.visualstudio.com/)
 * [MySQL] (https://www.mysql.com/)
 * [Postman] (https://www.postman.com/)
