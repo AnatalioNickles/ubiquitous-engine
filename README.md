@@ -98,21 +98,21 @@ Minimal usage requirements
     - [X] Create features list
     - [X] Assign teams
     - [X] Create workflow
-- [] Back End Tasks
+- [ ] Back End Tasks
     - [X] Create database
     - [X] Create APIs
     - [X] Create mapping
-- [] Front End Tasks
+- [ ] Front End Tasks
     - [X] Create shell
-    - [] 
-    - [] Clean up UI
+    - [ ] 
+    - [ ] Clean up UI
 - [] DevOps Tasks
     - [X] Create Repositories
     - [X] Send invites for collabs
-    - [] 
-- [] Quality Assurance
-- [] Merge to 'master'
-- [] Add additional features
+    - [ ] 
+- [ ] Quality Assurance
+- [ ] Merge to 'master'
+- [ ] Add additional features
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
