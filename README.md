@@ -98,10 +98,18 @@ Minimal usage requirements
     - [X] Create features list
     - [X] Assign teams
     - [X] Create workflow
-- [] Completed assigned tasks
-    - [] index.hmtl
-    - [] styles.css
-    - [] script.js
+- [] Back End Tasks
+    - [X] Create database
+    - [X] Create APIs
+    - [X] Create mapping
+- [] Front End Tasks
+    - [X] Create shell
+    - [] 
+    - [] Clean up UI
+- [] DevOps Tasks
+    - [X] Create Repositories
+    - [X] Send invites for collabs
+    - [] 
 - [] Quality Assurance
 - [] Merge to 'master'
 - [] Add additional features
