@@ -2,7 +2,7 @@
 <br />
 <div align="center">
 
-<h3 align="center">Online Banking App</h3>
+<h3 align="center">Tller's Online Banking Software</h3>
   <img src="https://www.techfunnel.com/wp-content/uploads/2019/07/12-Digital-Banking-Challenges-and-Opportunities-For-the-Banking-Industry-1.png">
 
   <p align="center">
@@ -45,7 +45,7 @@
 
 ## About The Project
 
- Capstone project for Xpanxion, yada, yada, yada, etc...
+ Capstone project for Xpanxion. Online banking app for tellers to use. yada, yada, yada, etc...
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
