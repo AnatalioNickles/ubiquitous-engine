@@ -170,6 +170,7 @@ Cohort Manager: Veroinca Cisneros - vcisneros@xpanxion.com
 ## Acknowledgments
 
 * Pooja Purohit
+* Maleeha
 * Krishna
 * Kevin Conlay
 
